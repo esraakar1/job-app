@@ -1,0 +1,48 @@
+@import "default";
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px 0 20px;
+    background-color: #171717;
+
+    @media (max-width: 900px) {
+        padding: 10px 20px 0 20px; 
+
+
+        h2{
+            display: none;
+        }
+
+        a {
+            padding: 25px o !important;
+        }
+    }
+
+    .logo{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+
+        img{
+            width: 50px;
+        }
+   }
+
+   nav{
+    display: flex;
+    gap: 20px;
+
+    a{
+        padding: 15px 0 ;
+        color: rgba(255, 255, 255, 0.725);
+    }
+   }
+
+   .active {
+    border-bottom: 1px solid #2e8bca;
+   }
+}
+

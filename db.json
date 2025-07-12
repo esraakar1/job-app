@@ -1,0 +1,119 @@
+{
+  "jobs": [
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328,
+      "rejection_date": "2024-04-08",
+      "interview_date": "2025-04-17T01:18"
+    },
+    {
+      "position": "Product Managerr",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "5fb295d4-ffe7-48a0-bf1b-a6e4e95020d3",
+      "date": "2024-05-25"
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": 1318607013502,
+      "rejection_date": 1318607013502
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
+      "date": 1715607078538
+    },
+    {
+      "position": "Frontendt",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": 1712608152577,
+      "interview_date": "2024-04-08T20:29"
+    },
+    {
+      "id": "9ee5155f-0984-4c16-9f6a-90712facfb78",
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1720550896851,
+      "interview_date": 1720550896851,
+      "rejection_date": ""
+    },
+    {
+      "id": "3a48eef4-2850-4b8d-83a2-aed6b10b37f8",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1720552344626,
+      "rejection_date": 1720552344626
+    },
+    {
+      "position": "Softwatre Tester",
+      "company": "Amazon",
+      "location": "İstanbul, Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "2024-12-06",
+      "id": "cQjjOZG"
+    },
+    {
+      "position": "Product Manager",
+      "company": "Emaartech",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": "2025-04-28",
+      "id": "dQfE0yd"
+    },
+    {
+      "position": "Frontendt",
+      "company": "apple",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "rejection_date": "2025-04-23",
+      "id": "eD7mdse"
+    },
+    {
+      "position": "Frontendt",
+      "company": "Emaartech",
+      "location": "Redmond",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "interview_date": "2025-04-19T01:27",
+      "id": "eacvTP2"
+    },
+    {
+      "position": "Data Scientist",
+      "company": "udemig",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "interview_date": "2025-04-16T05:24",
+      "id": "lZ-Vpbz"
+    }
+  ]
+}
