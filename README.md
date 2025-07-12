@@ -33,7 +33,8 @@ A modern web application to track job applications, built with React, Redux Tool
 
 gif
 
-- ![Uploading ezgif-635e8783b867b5.gif…]()
+- ![Uploading ezgif-638fe079b2eec7.gif…]()
+
 
 
 
