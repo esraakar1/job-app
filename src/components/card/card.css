@@ -1,0 +1,81 @@
+.card {
+  background-color: #242424;
+  padding: 15px 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px rgba(245, 245, 245, 0.3);
+  font-size: 16px;
+}
+.card .head {
+  display: flex;
+  justify-content: space-between;
+}
+.card .head > div {
+  display: flex;
+  gap: 15px;
+}
+.card .head .letter {
+  background: #2e8bca;
+  width: 50px;
+  display: grid;
+  place-items: center;
+  height: 50px;
+  border-radius: 6px;
+}
+.card .line {
+  height: 1px;
+  background-color: #171717;
+  margin-top: 15px;
+  width: 90%;
+  margin: 15px auto;
+}
+.card .body {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 15px;
+}
+.card .body .comp {
+  margin-top: 10px;
+}
+.card .body .icon {
+  color: rgba(255, 255, 255, 0.536);
+}
+.card .body .loc {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.card .body .bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card .body .bottom .date {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.838);
+  white-space: nowrap;
+}
+.card .body .bottom .type {
+  background: rgb(77, 76, 76);
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 15px;
+  white-space: nowrap;
+}
+.card .buttons {
+  display: flex;
+  align-items: center;
+}
+.card .buttons .delete,
+.card .buttons .edit {
+  color: #797777;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+.card .buttons .delete:hover,
+.card .buttons .edit:hover {
+  color: white;
+}/*# sourceMappingURL=card.css.map */
