@@ -30,6 +30,8 @@ A modern web application to track job applications, built with React, Redux Tool
 - **react-icons**
 
 ---
+![Uploading Ekran Resmi 2025-07-12 20.11.18.png…]()
+
 
 gif
 
